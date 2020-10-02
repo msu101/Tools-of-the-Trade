@@ -1,0 +1,15 @@
+10/02/2020 16:26:39 INFO     Program begins!
+10/02/2020 16:26:39 DEBUG    entering greeter(), parameter is: Our program begins!
+10/02/2020 16:26:39 DEBUG    exiting greeter()
+10/02/2020 16:26:39 INFO     You have entered Wahoovian!
+10/02/2020 16:26:39 INFO     Input is a square!
+10/02/2020 16:26:39 INFO     You are now leaving Wahoovian!
+10/02/2020 16:26:39 INFO     You have entered Wahoovian!
+10/02/2020 16:26:39 WARNING  Matrix inputted is not a square!
+10/02/2020 16:26:39 INFO     You are now leaving Wahoovian!
+10/02/2020 16:26:39 INFO     You have entered Wahoovian!
+10/02/2020 16:26:39 WARNING  Matrix inputted is not a square!
+10/02/2020 16:26:39 INFO     You are now leaving Wahoovian!
+10/02/2020 16:26:39 INFO     Program ends!
+10/02/2020 16:26:39 DEBUG    entering greeter(), parameter is: Our program ends!
+10/02/2020 16:26:39 DEBUG    exiting greeter()
